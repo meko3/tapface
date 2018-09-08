@@ -2,8 +2,8 @@
 .DS_Store
 
 # Unity Setting
-Library
-Temp
+Library/
+Temp/
 *.pidb
 *.unityproj
 *.sln
