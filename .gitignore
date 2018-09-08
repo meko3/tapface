@@ -1,0 +1,10 @@
+# Mac crap
+.DS_Store
+
+# Unity Setting
+Library
+Temp
+*.pidb
+*.unityproj
+*.sln
+*.userprefs
